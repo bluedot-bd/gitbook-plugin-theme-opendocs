@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin-theme-opendocs-mbl",
+    "name": "gitbook-plugin-theme-opendocs",
     "description": "gitbook plugin theme opendocs (MBL)",
     "version": "0.0.5",
     "engines": {
